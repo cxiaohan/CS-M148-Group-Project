@@ -1,7 +1,7 @@
 # CS-M148-Group-Project
-Group project for team Data Scholars
-Team: Data Scholars
-Members: Xiaohan Sun, Jiayue Liu, Eliza Jiang, Ruoming Wu, Jianong Xu
+Group project for team Data Scholars <br/>
+Team: Data Scholars <br/>
+Members: Xiaohan Sun, Jiayue Liu, Eliza Jiang, Ruoming Wu, Jianong Xu 
 
 ## Main document: 
 
